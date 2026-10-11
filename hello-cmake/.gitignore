@@ -1,0 +1,8 @@
+# CMake 构建产物
+build/
+out/
+
+# 编译中间文件
+*.o
+*.obj
+*.exe
